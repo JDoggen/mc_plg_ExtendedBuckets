@@ -1,0 +1,35 @@
+buckets:
+
+  small_bucket:
+    display: Small Bucket
+    amount: 5
+    recipe:
+      - "A.A"
+      - ".A."
+    materials:
+      A:
+        material: IRON_BLOCK
+        amount: 1
+
+  medium_bucket:
+    display: Medium Bucket
+    amount: 10
+    recipe:
+      - "A.A"
+      - ".A."
+    materials:
+      A:
+        material: GOLD_BLOCK
+        amount: 1
+
+  large_bucket:
+    display: Large Bucket
+    amount: 25
+    recipe:
+      - "A.A"
+      - ".A."
+    materials:
+      A:
+        material: DIAMOND_BLOCK
+        amount: 3
+
